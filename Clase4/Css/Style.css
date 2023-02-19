@@ -1,0 +1,49 @@
+.dias{
+    font-weight: bold;
+    color: red;
+    font-size: larger;
+
+}
+
+td.horas{
+    
+}
+
+.lunes{
+    color: green;
+
+}
+
+.martes{
+    color: blue;
+    
+}
+
+.miercoles{
+    color: yellow;
+    
+}
+
+
+.jueves{
+    color: tomato;
+    
+}
+
+.viernes{
+    color: aquamarine;
+    
+}
+
+
+.sabado{
+    color: salmon;
+    
+}
+
+
+.domingo{
+    color:aqua;
+    
+}
+

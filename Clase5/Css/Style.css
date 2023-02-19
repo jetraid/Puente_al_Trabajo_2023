@@ -1,0 +1,66 @@
+.dias{
+    font-weight: bold;
+    color: red;
+    font-size: larger;
+
+}
+
+td.horas{
+    
+}
+
+.lunes{
+    color: green;
+
+}
+
+.martes{
+    color: blue;
+    
+}
+
+.miercoles{
+    color: yellow;
+    
+}
+
+
+.jueves{
+    color: tomato;
+    
+}
+
+.viernes{
+    color: aquamarine;
+    
+}
+
+
+.sabado{
+    color: salmon;
+    
+}
+
+
+.domingo{
+    color:aqua;
+    
+}
+
+.cabecera{
+    background-color: aqua;
+    width: 100%;
+    height: 150px;
+}
+
+.pie{
+    background-color: rgb(130,213,40);
+    width: 100%;
+    height: 50px;
+}
+.formulario{
+    border-style: dotted;
+}
+li{
+    list-style: none;
+}

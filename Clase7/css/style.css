@@ -1,0 +1,68 @@
+/*media default mobile first*/
+.contenedor div{
+    width:200px;
+    height: 100px;
+    
+    
+}
+.uno {
+    background-color: red;
+    
+}
+.dos{
+    background-color: black;
+}
+.tres{
+    background-color: blue;
+}
+.cuatro{
+    background-color: green;
+}
+.cinco{
+    background-color: orange;
+}
+.seis{
+    background-color: cyan;
+}
+.siete{
+    background-color: mediumpurple;
+}
+.ocho{
+    background-color: navajowhite;
+}
+.nueve{
+    background-color: tomato;
+}
+.contenedor{
+    display: grid;
+    grid-template-rows: auto;
+   
+    grid-row-gap: 3px;
+   
+
+}
+
+
+
+/*media para tablet*/
+@media (min-width:321px) and (max-width:768px){
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(2,200px) ;
+    grid-column-gap: 5px;
+}
+
+}
+
+/* media para pc*/
+@media (min-width:769px){
+    
+    .contenedor{
+        display: grid;
+        grid-template-columns: repeat(3,200px) ;
+        grid-column-gap: 5px;
+    }
+    
+
+}
+*/
